@@ -27,7 +27,7 @@ A SwiftUI loan calculator and amortization app built with MVVM and SwiftData. En
 1. Clone the repository and open the project in Xcode:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Abrahamkimani/mkopoplan.git>
    cd mkopoplan
    open mkopoplan.xcodeproj
    ```
